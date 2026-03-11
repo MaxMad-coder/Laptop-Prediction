@@ -178,4 +178,4 @@ This project is open-source and free to use under the MIT License.
 
 **Your Name**
 - GitHub: [@MaxMad-coder](https://github.com/MaxMad-coder)
-- Email: MaxMad-coder.com
+- Email: manash212005@gmail.com
